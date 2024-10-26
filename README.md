@@ -92,7 +92,7 @@ pong/
 ├── .gitignore               # Git ignore file
 ├── README.md                # README to check usage
 └── Pong.sln                 # Visual Studio solution file
-
+```
 ## Classes
 
 ### Paddle Class
