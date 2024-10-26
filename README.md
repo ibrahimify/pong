@@ -2,6 +2,10 @@
 
 A classic two-player Pong game implementation using C++ and SFML library.
 
+### Game Play Interface 
+
+![Pong Game Screenshot](assets/screenshots/gameplay.png)
+
 ## Overview
 
 This is a modern implementation of the classic Pong arcade game where two players control paddles to hit a ball back and forth across the screen. The game features score tracking, high score management, and smooth gameplay mechanics.
@@ -84,7 +88,8 @@ pong/
 │   └── GameStats.h
 │
 ├── assets/                  # Game assets
-│   └── fonts/
+│   ├── fonts/
+│   └── screenshots/ 
 │
 ├── docs/                    # Documentation
 │   └── documentation.pdf
