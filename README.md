@@ -4,7 +4,7 @@ A classic two-player Pong game implementation using C++ and SFML library.
 
 ### Game Play Interface 
 
-![Pong Game Screenshot](assets/screenshots/gameplay.png)
+<img src="assets/screenshots/gameplay.png" alt="Gameplay Screenshot" width="400"/>
 
 ## Overview
 
