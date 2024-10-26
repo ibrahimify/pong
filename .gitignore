@@ -1,0 +1,13 @@
+# Folders
+.vs/
+Debug/
+Release/
+x64/
+
+# Files
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+GameStats.txt
